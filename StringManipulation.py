@@ -15,4 +15,3 @@ print(len(sentence))
 print(sentence.replace("Hello Guys" , "Hey !"))
 
 print(sentence.index("y"))
-
