@@ -1,0 +1,6 @@
+price_product_1 = input("What is the Price of the Product")
+quantity_product_1 = input("What is the Quantityof the Product")
+price_product_3 = input("What is the Price of the Product")
+quantity_product_3 = input("What is the Quantityof the Product")
+price_product_3 = input("What is the Price of the Product")
+quantity_product_3 = input("What is the Quantityof the Product")
