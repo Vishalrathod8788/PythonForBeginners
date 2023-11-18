@@ -11,5 +11,4 @@ print(list_1[0:2])
 # list_1.pop(0)
 # list_1.clear()
 
-
 del list_1
