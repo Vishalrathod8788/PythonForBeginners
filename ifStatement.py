@@ -13,3 +13,4 @@ elif wallet_2 > wallet_1 and wallet_2 > wallet_3:
     print(name_2, "is the richest person")
 else:
     print(name_3, "is the richest person")
+    
