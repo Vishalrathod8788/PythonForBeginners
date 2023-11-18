@@ -7,3 +7,5 @@ def question():
     question_1 = input("Are you hungry : ")
     if question_1 != "yes":
         return print("Then let's go for walk")
+    else:
+        print("Next Question : ")
