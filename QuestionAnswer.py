@@ -9,7 +9,7 @@ def question():
         return print("Then let's go for walk")
     else:
         print("Next Question : ")
-    question_2 = input("Do you want to eat at a restorunt : ")
+    question_2 = input("Do you want to eat at a restorer : ")
     if question_2 != "yes":
         return print("come eat at my place ")
     else:
