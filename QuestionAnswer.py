@@ -20,5 +20,4 @@ def question():
     else:
         print("let's go eat pizza ")
 
-
 question()
