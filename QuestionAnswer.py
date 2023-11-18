@@ -18,4 +18,7 @@ def question():
     if question_3 != "yes":
         return print("let's go eat burger then ")
     else:
-        print("let's go eat pizza")
+        print("let's go eat pizza ")
+
+
+question()
