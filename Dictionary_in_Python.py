@@ -10,4 +10,4 @@ info = {
     88 : "Vishal",
     11 : "Rathod"
 }
-print(info)
+print(info.get(55, "Name Not Exist"))
