@@ -3,5 +3,4 @@ color = {
     "W" : "White",
     "G" : "Green"
 }
-
 print(color.get("B"))
