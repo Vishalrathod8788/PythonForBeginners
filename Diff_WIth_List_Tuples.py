@@ -7,7 +7,9 @@ list_num = [1, 2, 3, 4]
 color = ("Red", "Green", "Gray", "Pink", "Black")
 color_num = (1, 2, 3, 4, 5, 6, 7)
 
-list.insert(4,"E")
+list.insert(2,"Insert Items")
 print(list)
-
+print(list_num)
+print(color)
+print(color_num)
 
