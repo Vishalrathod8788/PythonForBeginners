@@ -11,6 +11,8 @@ list.insert(2,"Insert Items")
 print(list)
 list.remove("Insert Items")
 print(list)
+
+# Tuples in any items not Changeable
 print(list_num)
 print(color)
 print(color_num)
