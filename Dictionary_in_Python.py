@@ -4,3 +4,4 @@ color = {
     "G" : "Green"
 }
 
+print(color.get("B"))
