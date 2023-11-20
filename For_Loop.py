@@ -1,8 +1,3 @@
-colors = ["Blue", "Red", "Green", "Gray", "Pink"]
-
-for one_color in colors:
-    print(one_color)
-
 for letter in "Hello":
     print(letter)
 
@@ -14,6 +9,7 @@ for color in colors:
     print(color)
     if color == "Green":
         print("Go")
+        break
     elif color == "Yellow":
         print("Wait")
     else:
