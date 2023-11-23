@@ -16,4 +16,4 @@ if max_try == "Reached" :
 else :
     print("Access Granted...")
     print("Welcome !")
-    
+    print("Your password is " + your_pass)
