@@ -6,7 +6,7 @@ max_try = ""
 
 
 
-while your_password != our_password and max_try != "Reached ":
+while your_password != our_password and max_try != "Reached":
     if num_of_try < num_of_try_max:
         your_password = input("Enter your password: ")
         num_of_try += 1
@@ -14,6 +14,7 @@ while your_password != our_password and max_try != "Reached ":
         print("Wrong password")
         # print("You have " + str(num_of_try_max - num_of_try) + " try left")
         max_try = "Reached"
+        
 if max_try == "Reached" :
     print("Account Blocked...")
 else :
