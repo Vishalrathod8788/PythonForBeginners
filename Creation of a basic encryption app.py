@@ -1,3 +1,2 @@
 def created(sentence):
     encryption = ""
-    
