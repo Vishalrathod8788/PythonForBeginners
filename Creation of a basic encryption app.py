@@ -1,3 +1,3 @@
 def created(sentence):
-    encryption = ""
+    trasnslation = ""
     for element in sentence:
