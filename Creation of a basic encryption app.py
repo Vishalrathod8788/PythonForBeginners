@@ -52,23 +52,23 @@ def created(sentence):
         elif element in "Zz":
             trasnslation = trasnslation + "*"
         elif element in "1":
-            trasnslation = trasnslation + "*"
-        elif element in "Rr":
-            trasnslation = trasnslation + "("
-        elif element in "Ss":
-            trasnslation = trasnslation + ")"
-        elif element in "Tt":
             trasnslation = trasnslation + "-"
-        elif element in "Vv":
+        elif element in "2":
             trasnslation = trasnslation + "+"
-        elif element in "Ww":
-            trasnslation = trasnslation + "|"
-        elif element in "Xx":
-            trasnslation = trasnslation + "]"
-        elif element in "Yy":
-            trasnslation = trasnslation + "["
-        elif element in "Zz":
-            trasnslation = trasnslation + "{"
+        elif element in "3":
+            trasnslation = trasnslation + "."
+        elif element in "4":
+            trasnslation = trasnslation + "/"
+        elif element in "5":
+            trasnslation = trasnslation + ">"
+        elif element in "6":
+            trasnslation = trasnslation + "<"
+        elif element in "7":
+            trasnslation = trasnslation + ","
+        elif element in "8":
+            trasnslation = trasnslation + "`"
+        elif element in "9":
+            trasnslation = trasnslation + "~"
         else:
             trasnslation = trasnslation + element
     return trasnslation
