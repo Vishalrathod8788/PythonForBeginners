@@ -53,3 +53,6 @@ def created(sentence):
             trasnslation = trasnslation + "{"
         elif element in "Bb":
             trasnslation = trasnslation + "}"
+        else:
+            trasnslation = trasnslation + element
+    return trasnslation
