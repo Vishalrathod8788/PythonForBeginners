@@ -40,6 +40,24 @@ def created(sentence):
         elif element in "Ss":
             trasnslation = trasnslation + ")"
         elif element in "Tt":
+            trasnslation = trasnslation + "_"
+        elif element in "Vv":
+            trasnslation = trasnslation + "="
+        elif element in "Ww":
+            trasnslation = trasnslation + "|"
+        elif element in "Xx":
+            trasnslation = trasnslation + "]"
+        elif element in "Yy":
+            trasnslation = trasnslation + "["
+        elif element in "Zz":
+            trasnslation = trasnslation + "*"
+        elif element in "1":
+            trasnslation = trasnslation + "*"
+        elif element in "Rr":
+            trasnslation = trasnslation + "("
+        elif element in "Ss":
+            trasnslation = trasnslation + ")"
+        elif element in "Tt":
             trasnslation = trasnslation + "-"
         elif element in "Vv":
             trasnslation = trasnslation + "+"
@@ -55,4 +73,4 @@ def created(sentence):
             trasnslation = trasnslation + element
     return trasnslation
 
-print(created("vishalrathod8788"))
+print(created(input("What do you want to cript...")))
