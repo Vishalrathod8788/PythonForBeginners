@@ -12,7 +12,6 @@ while your_password != our_password and max_try != "Reached":
         num_of_try += 1
     else:
         print("Wrong password")
-        # print("You have " + str(num_of_try_max - num_of_try) + " try left")
         max_try = "Reached"
         
 if max_try == "Reached" :
