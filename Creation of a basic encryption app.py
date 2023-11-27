@@ -23,3 +23,23 @@ def created(sentence):
             trasnslation = trasnslation + "1"
         elif element in "Bb":
             trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
+        elif element in "Bb":
+            trasnslation = trasnslation + "1"
