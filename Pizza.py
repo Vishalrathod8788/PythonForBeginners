@@ -1,5 +1,7 @@
 from ClsAndObj import pizza1 
 
-pizza1.__init__()
+PizzaV = pizza1("Vageterian", "Small", "200")
 
-print(pizza1)
+print("Pizza Size : " + PizzaV.size)
+print("Pizza Type : " + PizzaV.type) 
+print("Pizza Price : " + PizzaV.price)
