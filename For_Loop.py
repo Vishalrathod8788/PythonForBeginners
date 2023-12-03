@@ -1,5 +1,5 @@
-for letter in "Hello":
-    print(letter)
+# for letter in "Hello":
+    # print(letter)
 
 # Traffic Lite Color 
 colors = ["Red", "Yellow", "Green"]
