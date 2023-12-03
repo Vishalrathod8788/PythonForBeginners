@@ -1,19 +1,18 @@
-# for letter in "Hello":
-#     print(letter)
+for letter in "Hello":
+    print(letter)
 
-# # Traffic Lite Color 
-# colors = ["Red", "Yellow", "Green"]
+# Traffic Lite Color 
+colors = ["Red", "Yellow", "Green"]
 
-# for color in colors:
-#     print(color)
-#     if color == "Green":
-#         print("Go")
-#         break
-#     elif color == "Yellow":
-#         print("Wait")
-#     else:
-#         print("Stop")
+for color in colors:
+    print(color)
+    if color == "Green":
+        print("Go")
+        break
+    elif color == "Yellow":
+        print("Wait")
+    else:
+        print("Stop")
 
-for i in range(20):
-    print(i)
-    
+# for i in range(20):
+    # print(i)
