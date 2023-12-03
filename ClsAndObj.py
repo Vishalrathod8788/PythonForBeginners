@@ -3,4 +3,3 @@ class pizza1 :
         self.type = type
         self.size = size
         self.price = price
-    
