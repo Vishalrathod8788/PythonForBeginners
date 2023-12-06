@@ -1,10 +1,8 @@
 our_password = "Pass123"
 your_password = ""
 num_of_try = 0
-num_of_try_max = 3
+num_of_try_max = 5
 max_try = ""
-
-
 
 while your_password != our_password and max_try != "Reached":
     if num_of_try < num_of_try_max:
