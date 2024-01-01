@@ -20,3 +20,4 @@ price_payed_by_name_3 = float(percetage_ate_by_person_3) * float(Price_of_the_Pi
 print(name_1 +" have eat "+ str(number_of_slices_ate_by_person_1) + " Slices and have payed "+ str(price_payed_by_name_1)+"$ meal " )
 print(name_2 +" have eat "+ str(number_of_slices_ate_by_person_2) + " Slices and have payed "+ str(price_payed_by_name_2)+"$ meal " )
 print(name_3 +" have eat "+ str(number_of_slices_ate_by_person_3) + " Slices and have payed "+ str(price_payed_by_name_3)+"$ meal " )
+
