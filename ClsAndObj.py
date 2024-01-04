@@ -1,5 +1,6 @@
-class pizza1 :
-    def __init__(self, type, size, price):
-        self.type = type
-        self.size = size
-        self.price = price
+class BaseClass :
+    def __init__(self, Id, Name):
+        self.ID = Id
+        self.NAME = Name
+
+class DirClass (BaseClass):
