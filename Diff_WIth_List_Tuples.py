@@ -19,3 +19,5 @@ print(color_num)
 print(color_num[2])
 print(color_num[2:4])
 
+
+print(color_num[2:4])
