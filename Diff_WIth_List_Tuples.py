@@ -1,4 +1,3 @@
-
 # list in any Items are Changeable
 list = ["A", "B", "C", "D"]
 list_num = [1, 2, 3, 4]
